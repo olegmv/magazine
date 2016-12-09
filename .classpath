@@ -34,5 +34,6 @@
 	</classpathentry>
 	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
 	<classpathentry kind="lib" path="C:/Users/ASUS/Desktop/junit-4.10.jar"/>
+	<classpathentry kind="lib" path="log4j.properties"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
